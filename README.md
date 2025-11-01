@@ -1,4 +1,6 @@
 # EXP-4
+# Reg No:212224040129
+# Name:Janathul Firdhous A
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
 AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
@@ -34,18 +36,22 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+CIRCUIT DIAGRAMS:
 
-Half wave rectifier with filter:
 
-Bridge rectifier with filter:
+![exp-4 -1](https://github.com/user-attachments/assets/a32f503b-e6ff-4654-820e-f21d3eb37bd3)
+![exp-4 -2](https://github.com/user-attachments/assets/6cd148ef-0442-4f9d-a4ff-7d4d82257586)
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
 
-WAVEFORM:
+![b41](https://github.com/user-attachments/assets/3f524b1e-bb2a-4493-a919-4312628dd485)
+![b42](https://github.com/user-attachments/assets/004a434a-b1ad-42a3-94af-adf0ee93eefb)
+![b43](https://github.com/user-attachments/assets/e7487960-43b4-48c1-88b6-c6c7d1145807)
+![b44](https://github.com/user-attachments/assets/f2ed6989-49d9-4792-ab9e-2e3fe8e97f93)
+![b45](https://github.com/user-attachments/assets/2bba93ac-7038-46e2-af0d-15a6926b0373)
+![b46](https://github.com/user-attachments/assets/72aba51c-9165-4848-8f93-7f83ae21e0cd)
+![b47](https://github.com/user-attachments/assets/52e65a11-23c0-4641-92c0-6382a1bd58d9)
+![b48](https://github.com/user-attachments/assets/f5f310c5-18b6-46f8-ac1c-6f595253cc23)
+
 
 
 RESULT:
